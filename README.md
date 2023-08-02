@@ -33,6 +33,14 @@ You need to have Rust and Cargo installed on your system. You can download them 
 - [`tokio`](https://crates.io/crates/tokio): An asynchronous runtime for Rust.
 - [`native_tls`](https://crates.io/crates/native_tls): A crate for TLS/SSL functionality.
 - [`imap`](https://crates.io/crates/imap): A library for working with the IMAP protocol.
+# Screenshot
+<table>
+ <tr>
+  <th>
+   <img src="https://github.com/Anurag-Mohan/Mail-Client-CLI-RUST/blob/main/screenshot/screenshot.jpg?raw=true">
+  </th>
+ </tr>
+</table>
 
 # Contributions 
 We welcome and appreciate contributions to make this project better! Whether you're an experienced developer or just getting started, there are many ways you can contribute.
@@ -43,14 +51,6 @@ We welcome and appreciate contributions to make this project better! Whether you
 4. ***Make Changes:*** Make your desired changes to the codebase. Feel free to add new features, fix bugs, improve documentation, or anything else that adds value.
 5. ***Commit and Push:*** Commit your changes and push them to your forked repository
 6. ***Open a Pull Request:*** Go to your forked repository on GitHub and open a pull request. Provide a clear description of your changes and why they're valuable.
-##  Screenshot
-<table>
- <tr>
-  <th>
-   <img src="https://github.com/Anurag-Mohan/Mail-Client-CLI-RUST/blob/main/screenshot/screenshot.jpg?raw=true">
-  </th>
- </tr>
-</table>
 
 ### Guidelines
 - Follow the existing code style and naming conventions.
