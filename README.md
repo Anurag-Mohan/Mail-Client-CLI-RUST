@@ -12,7 +12,7 @@ You need to have Rust and Cargo installed on your system. You can download them 
 - git clone https://github.com/Anurag-Mohan/Mail-Client-CLI-RUST.git
 - cd Mail-Client-CLI-RUST
   
-3. Build the application using Cargo:
+2. Build the application using Cargo:
 - cargo build --release
 # Usage
 1. Run the application: cargo run --release
