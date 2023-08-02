@@ -51,7 +51,7 @@ We welcome and appreciate contributions to make this project better! Whether you
 <table>
  <tr>
   <th>
-   <img src="">
+   <img src="https://github.com/Anurag-Mohan/Mail-Client-CLI-RUST/blob/main/screenshot/screenshot.jpg?raw=true">
   </th>
  </tr>
 </table>
