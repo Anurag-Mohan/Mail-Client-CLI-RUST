@@ -43,10 +43,6 @@ We welcome and appreciate contributions to make this project better! Whether you
 4. ***Make Changes:*** Make your desired changes to the codebase. Feel free to add new features, fix bugs, improve documentation, or anything else that adds value.
 5. ***Commit and Push:*** Commit your changes and push them to your forked repository
 6. ***Open a Pull Request:*** Go to your forked repository on GitHub and open a pull request. Provide a clear description of your changes and why they're valuable.
-### Guidelines
-- Follow the existing code style and naming conventions.
-- Write clear and concise commit messages.
-- Test your changes thoroughly before submitting a pull request.
 ##  Screenshot
 <table>
  <tr>
@@ -55,4 +51,9 @@ We welcome and appreciate contributions to make this project better! Whether you
   </th>
  </tr>
 </table>
+
+### Guidelines
+- Follow the existing code style and naming conventions.
+- Write clear and concise commit messages.
+- Test your changes thoroughly before submitting a pull request.
 
