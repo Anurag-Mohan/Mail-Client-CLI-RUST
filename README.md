@@ -43,7 +43,7 @@ You need to have Rust and Cargo installed on your system. You can download them 
 </table>
 
 # Contributions 
-We welcome and appreciate contributions to make this project better! Whether you're an experienced developer or just getting started, there are many ways you can contribute.
+I welcome and appreciate contributions to make this project better! Whether you're an experienced developer or just getting started, there are many ways you can contribute.
 ### How to Contribute
 1. ***Fork the Repository:*** Start by forking this repository to your own GitHub account.
 2. ***Clone the Repository:*** Clone the forked repository to your local machine using.
